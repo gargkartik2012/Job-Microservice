@@ -1,0 +1,257 @@
+{
+  "data":
+  [
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "description": "Develop and maintain web applications",
+    "minSalary": "50000",
+    "maxSalary": "80000",
+    "location": "New York, USA",
+    "companyId": 101
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "description": "Work on API development and optimization",
+    "minSalary": "55000",
+    "maxSalary": "90000",
+    "location": "San Francisco, USA",
+    "companyId": 102
+  },
+  {
+    "id": 3,
+    "title": "Frontend Developer",
+    "description": "Develop UI components using React.js",
+    "minSalary": "48000",
+    "maxSalary": "85000",
+    "location": "Los Angeles, USA",
+    "companyId": 103
+  },
+  {
+    "id": 4,
+    "title": "Data Scientist",
+    "description": "Analyze large datasets and create ML models",
+    "minSalary": "70000",
+    "maxSalary": "120000",
+    "location": "Chicago, USA",
+    "companyId": 104
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "description": "Manage CI/CD pipelines and cloud infrastructure",
+    "minSalary": "65000",
+    "maxSalary": "110000",
+    "location": "Seattle, USA",
+    "companyId": 105
+  },
+  {
+    "id": 6,
+    "title": "Product Manager",
+    "description": "Lead the product development lifecycle",
+    "minSalary": "80000",
+    "maxSalary": "130000",
+    "location": "Boston, USA",
+    "companyId": 106
+  },
+  {
+    "id": 7,
+    "title": "AI Engineer",
+    "description": "Develop AI-driven solutions for various applications",
+    "minSalary": "75000",
+    "maxSalary": "125000",
+    "location": "Austin, USA",
+    "companyId": 107
+  },
+  {
+    "id": 8,
+    "title": "Full Stack Developer",
+    "description": "Build end-to-end web applications",
+    "minSalary": "60000",
+    "maxSalary": "100000",
+    "location": "Denver, USA",
+    "companyId": 108
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Analyst",
+    "description": "Monitor and enhance security systems",
+    "minSalary": "68000",
+    "maxSalary": "115000",
+    "location": "Washington, D.C., USA",
+    "companyId": 109
+  },
+  {
+    "id": 10,
+    "title": "Cloud Engineer",
+    "description": "Manage and optimize cloud platforms",
+    "minSalary": "70000",
+    "maxSalary": "118000",
+    "location": "San Diego, USA",
+    "companyId": 110
+  },
+  {
+    "id": 11,
+    "title": "Machine Learning Engineer",
+    "description": "Build and deploy machine learning models",
+    "minSalary": "78000",
+    "maxSalary": "130000",
+    "location": "Atlanta, USA",
+    "companyId": 111
+  },
+  {
+    "id": 12,
+    "title": "Blockchain Developer",
+    "description": "Develop blockchain applications and smart contracts",
+    "minSalary": "72000",
+    "maxSalary": "125000",
+    "location": "Miami, USA",
+    "companyId": 112
+  },
+  {
+    "id": 13,
+    "title": "QA Engineer",
+    "description": "Perform automated and manual testing",
+    "minSalary": "50000",
+    "maxSalary": "85000",
+    "location": "Houston, USA",
+    "companyId": 113
+  },
+  {
+    "id": 14,
+    "title": "Tech Lead",
+    "description": "Oversee development projects and mentor engineers",
+    "minSalary": "85000",
+    "maxSalary": "140000",
+    "location": "Philadelphia, USA",
+    "companyId": 114
+  },
+  {
+    "id": 15,
+    "title": "Business Analyst",
+    "description": "Analyze business processes and propose IT solutions",
+    "minSalary": "60000",
+    "maxSalary": "95000",
+    "location": "Dallas, USA",
+    "companyId": 115
+  },
+  {
+    "id": 16,
+    "title": "Embedded Systems Engineer",
+    "description": "Develop firmware and software for embedded devices",
+    "minSalary": "68000",
+    "maxSalary": "110000",
+    "location": "San Jose, USA",
+    "companyId": 116
+  },
+  {
+    "id": 17,
+    "title": "Mobile Developer",
+    "description": "Develop Android and iOS applications",
+    "minSalary": "55000",
+    "maxSalary": "100000",
+    "location": "Phoenix, USA",
+    "companyId": 117
+  },
+  {
+    "id": 18,
+    "title": "Game Developer",
+    "description": "Develop interactive gaming applications",
+    "minSalary": "60000",
+    "maxSalary": "105000",
+    "location": "Las Vegas, USA",
+    "companyId": 118
+  },
+  {
+    "id": 19,
+    "title": "UI/UX Designer",
+    "description": "Design user-friendly interfaces",
+    "minSalary": "50000",
+    "maxSalary": "95000",
+    "location": "Portland, USA",
+    "companyId": 119
+  },
+  {
+    "id": 20,
+    "title": "IT Support Engineer",
+    "description": "Provide technical support and troubleshooting",
+    "minSalary": "45000",
+    "maxSalary": "80000",
+    "location": "Salt Lake City, USA",
+    "companyId": 120
+  },
+  {
+    "id": 21,
+    "title": "Network Engineer",
+    "description": "Design and maintain networking infrastructure",
+    "minSalary": "65000",
+    "maxSalary": "110000",
+    "location": "Charlotte, USA",
+    "companyId": 121
+  },
+  {
+    "id": 22,
+    "title": "Software Architect",
+    "description": "Define architecture and technology stacks",
+    "minSalary": "90000",
+    "maxSalary": "150000",
+    "location": "Minneapolis, USA",
+    "companyId": 122
+  },
+  {
+    "id": 23,
+    "title": "Systems Administrator",
+    "description": "Manage IT infrastructure and server configurations",
+    "minSalary": "55000",
+    "maxSalary": "95000",
+    "location": "Indianapolis, USA",
+    "companyId": 123
+  },
+  {
+    "id": 24,
+    "title": "Database Administrator",
+    "description": "Manage and optimize database systems",
+    "minSalary": "62000",
+    "maxSalary": "105000",
+    "location": "Nashville, USA",
+    "companyId": 124
+  },
+  {
+    "id": 25,
+    "title": "SEO Specialist",
+    "description": "Optimize website rankings in search engines",
+    "minSalary": "48000",
+    "maxSalary": "85000",
+    "location": "Columbus, USA",
+    "companyId": 125
+  },
+  {
+    "id": 26,
+    "title": "Technical Writer",
+    "description": "Write technical documentation and guides",
+    "minSalary": "50000",
+    "maxSalary": "90000",
+    "location": "Kansas City, USA",
+    "companyId": 126
+  },
+  {
+    "id": 27,
+    "title": "Scrum Master",
+    "description": "Facilitate Agile development processes",
+    "minSalary": "70000",
+    "maxSalary": "120000",
+    "location": "Milwaukee, USA",
+    "companyId": 127
+  },
+  {
+    "id": 28,
+    "title": "Security Engineer",
+    "description": "Enhance cybersecurity measures",
+    "minSalary": "75000",
+    "maxSalary": "130000",
+    "location": "Baltimore, USA",
+    "companyId": 128
+  }
+]
+}
